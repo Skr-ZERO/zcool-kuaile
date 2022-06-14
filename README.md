@@ -1,5 +1,7 @@
 # 《站酷快乐体》开源修正版
 
+> *一个及其不专业的字体仓库（确信）*
+
 ## 说明
 
 2018年11月20日，《站酷快乐体》被上传至[Google Fonts](https://fonts.google.com/specimen/ZCOOL+KuaiLe?subset=chinese-simplified)，并以SIL Open Font License 1.1授权释出。但是部分汉字字形问题依旧存在，于是乎，本人对字体进行了修正。
@@ -15,6 +17,3 @@
 ## 授权信息
 
 本字体采用SIL Open Font License 1.1，OFL授权，允许自由商业使用、修改、分享文件，但不能将字体文件作为商品售卖或变相收费（包括但不限于积分下载，与其他字体捆绑售卖等）。此外，修改版本必须同样以《OFL》授权进行发布。
-
-## 下载
-- 点击项目首页右上角绿色的“Code”按钮，再点击“Download ZIP”。
